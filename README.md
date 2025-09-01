@@ -5,8 +5,6 @@
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-7.1+-orange.svg)](https://ffmpeg.org/)
 [![许可证](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-![67tool-2025-09-01_19_35_15](https://github.com/user-attachments/assets/b877da6c-df85-4a18-89ec-859553b66284)
-
 一个功能强大的视频转音频工具，基于PyQt5构建的精美GUI界面，专注于视频转MP3功能，支持批量处理和多种音质选择。
 ##✨ 功能特性
 
@@ -17,6 +15,7 @@
 - 📍 **智能输出**: 默认保存在原视频目录
 - 🖱️ **拖拽支持**：支持文件拖拽操作，使用更便捷
 - 🐍 **Python环境自动配置**: 智能检测和修复Python环境，注：手动安装需要勾选Add python.exe to PATH.    点击install now安装
+![67tool-2025-09-01_19_33_57](https://github.com/user-attachments/assets/c6e66553-b5d1-4ec8-ac54-9b50b970c905)
 
 ## 🚀 快速开始
 
