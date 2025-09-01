@@ -3,18 +3,20 @@
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-green.svg)](https://pypi.org/project/PyQt5/)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-7.1+-orange.svg)](https://ffmpeg.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![许可证](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 一个功能强大的视频转音频工具，基于PyQt5构建的精美GUI界面，专注于视频转MP3功能，支持批量处理和多种音质选择。
+<img width="901" height="748" alt="普通版界面" src="https://github.com/user-attachments/assets/849753a2-f16c-455a-9c44-a050dc452ddf" /><img width="996" height="732" alt="专业版界面" src="https://github.com/user-attachments/assets/e7e4c0f9-bd50-4182-bec0-29b18f958b5d" />
 
-## ✨ 功能特性
+
+##✨ 功能特性
 
 - 🎵 **视频转MP3**: 支持多种音质选择，默认保持原视频音质
 - 📁 **批量处理**: 支持批量转换多个视频文件
 - 🎨 **精美界面**: 现代化PyQt5界面设计
 - 🔧 **智能检测**: 自动检测FFmpeg环境
 - 📍 **智能输出**: 默认保存在原视频目录
-- 🖱️ **拖拽支持**: 支持文件拖拽操作，使用更便捷
+- 🖱️ **拖拽支持**：支持文件拖拽操作，使用更便捷
 - 🐍 **Python环境自动配置**: 智能检测和修复Python环境，注：手动安装需要勾选Add python.exe to PATH.    点击install now安装
 
 ## 🚀 快速开始
@@ -24,11 +26,11 @@
 - Windows 10/11
 - 网络连接（首次运行需要下载Python）
 
-### 🎯 一键启动（推荐）
+###🎯 一键启动（推荐）
 
 **最简单的方式：**
 1. 下载并解压项目文件
-2. 双击 `启动.bat`
+2. 双击 ``启动.bat``
 3. 脚本会自动：
    - 优先使用本地Python环境（如果存在）
    - 检测系统Python环境
@@ -42,7 +44,7 @@
 
 1. **安装Python**
    ```bash
-   # 下载Python 3.12+ from https://www.python.org/downloads/
+   # 从 https://www.python.org/downloads/ 下载 Python 3.12+
    # 安装时请勾选"Add Python to PATH"
    ```
 
@@ -56,15 +58,15 @@
    python main.py
    ```
 
-## 🎯 使用说明
+##🎯 使用说明
 
 ### 单文件转换
 
-1. 点击"选择视频文件"按钮或直接拖拽视频文件到指定区域
+1. 点击“选择视频文件”按钮或直接拖拽视频文件到指定区域
 2. 选择输出目录（默认使用原视频目录）
 3. 选择MP3音质（默认保持原音质）
 4. 勾选"转换为MP3"
-5. 点击"开始转换"按钮
+5. 点击“开始转换”按钮
 
 ### 批量转换
 
