@@ -6,7 +6,7 @@
 [![许可证](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 一个功能强大的视频转音频工具，基于PyQt5构建的精美GUI界面，专注于视频转MP3功能，支持批量处理和多种音质选择。
-<img width="901" height="748" alt="普通版界面" src="https://github.com/user-attachments/assets/849753a2-f16c-455a-9c44-a050dc452ddf" /><img width="996" height="732" alt="专业版界面" src="https://github.com/user-attachments/assets/e7e4c0f9-bd50-4182-bec0-29b18f958b5d" />
+
 
 
 ##✨ 功能特性
