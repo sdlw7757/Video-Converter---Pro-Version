@@ -5,11 +5,9 @@
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-7.1+-orange.svg)](https://ffmpeg.org/)
 [![许可证](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+![67tool-2025-09-01_19_35_15](https://github.com/user-attachments/assets/b877da6c-df85-4a18-89ec-859553b66284)
+
 一个功能强大的视频转音频工具，基于PyQt5构建的精美GUI界面，专注于视频转MP3功能，支持批量处理和多种音质选择。
-![67tool-2025-09-01_19_33_57](https://github.com/user-attachments/assets/3205d88c-074c-4f19-becd-6ccaeddc57c8)
-
-
-
 ##✨ 功能特性
 
 - 🎵 **视频转MP3**: 支持多种音质选择，默认保持原视频音质
